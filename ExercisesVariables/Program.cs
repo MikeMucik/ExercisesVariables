@@ -10,7 +10,7 @@ namespace ExercisesVariables
                 string lastName;
                 int age;    //lub uint age
                 char gender;
-                int pesel;  //musi być 
+                string pesel;  //musi być string bo to ciąg znaków chociaż cyfry
                 int workerId; //lub uint workerId
 
                 char first = 'A';
